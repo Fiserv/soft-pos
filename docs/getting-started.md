@@ -4,11 +4,11 @@ Small- and medium-size businesses (SMBs) in the U.S. can now accept in-person co
 
 For Clover merchants on the move, including fitness trainers, home service providers, market vendors and food truck operators, the addition of Tap to Pay on iPhone enables contactless payment acceptance without the need for additional hardware. Businesses can also use Tap to Pay on iPhone as a complementary solution to accept payments for needs like line busting or accepting payments at the table.
 
-“We are often servicing commercial vehicles on the side of the road in remote locations where efficiency is key,” says Alfredo Diaz, owner of Alfredo’s Tires and Roadside Assistance. “Using Tap to Pay on iPhone through the Clover Go app allows us to complete the service, take the payment and get our customers back on the road as quickly and safely as possible."
+We are often servicing commercial vehicles on the side of the road in remote locations where efficiency is key. Using Tap to Pay on iPhone through the Clover Go app allows us to complete the service, take the payment and get our customers back on the road as quickly and safely as possible.
 
 Tap to Pay on iPhone can be enabled by downloading the Clover Go iOS app in the Apple App Store. Following a quick and easy set-up process, businesses can present customers a payment screen on their iPhone and securely accept any form of contactless payment, including credit and debit cards, Apple Pay, and other digital wallets.
 
-“Small businesses want to streamline their operations, sell more, and connect with their customers no matter where they are,” said Dan Bjerke, Global Head of Clover. “Clover powers omnichannel technology and capabilities that enable us to meet their needs. By enabling Tap to Pay on iPhone, businesses can increase flexibility and expand customer engagement with the efficiency of using a device they already own.”
+Small businesses want to streamline their operations, sell more, and connect with their customers no matter where they are. Clover powers omnichannel technology and capabilities that enable us to meet their needs. By enabling Tap to Pay on iPhone, businesses can increase flexibility and expand customer engagement with the efficiency of using a device they already own.
 
 Through the integration of Tap to Pay on iPhone and Clover Go, businesses can offer contactless payments acceptance via their iPhone alongside existing mobile features from Clover Go – including the ability to connect multiple point-of-sale devices, securely accept offline payments, and access a unified view of their business. This enables businesses to capture more sales while simplifying day-to-day operations.
 
