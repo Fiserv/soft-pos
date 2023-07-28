@@ -31,4 +31,11 @@ You can obtain test credentials for your app on [Fiserv's Developer Studio](http
 7. In the Workspace, click the 'Credentials' tab
 8. Click the 'Create API key'. You will need to select a Merchant Id from the drop-down, provide a name for the API Key, click the 'Sandbox' radio button from the 'API Key Type' list, and select 'Payments' in the 'Features' checkboxes.  Click the 'Create' button.
 9. Important!  Copy the full API Key and Secret and store them __securely__.  Or, you can click the 'Save to File' button to download them into a file.   You will need these credentials to access the Fiserv SDK and back-end API's.  Protect these credentials in your code and in your app.
+
+---
+## See Also
+
+- [Getting Started to Apple's Tap to Pay](?path=docs/TTP/Apple-Pay/Apple-Pay-Getting-Started.md)
+
+---
 ​
