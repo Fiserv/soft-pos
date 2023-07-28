@@ -36,36 +36,38 @@ header:
     altText: REPLACEME™
 getStarted: /docs/getting-started.md
 featuredFeatures:
-  - title: REPLACE ME
-    description:  REPLACE ME
-    tags: ["REPLACEME", "REPLACEME", "REPLACEME"]
-    bullets: ["REPLACEME", "REPLACEME" ]  
+  - title: Apple's Tap To Pay
+    description: >
+      Commerce Hub allows integration with most popular mobile and digital wallet providers including; Apple Pay, Google Pay, Samsung Pay and PayPal.
+#    tags: ["tag1", "tag2"]
+#    bullets: ["Faster acceptance than credit or debit", "Biometric security", "Global offering and acceptance"]
+#    links: ["docs/Getting-Started/Getting-Started-Wallets.md"]
     relatedDocs:
       - relatedDoc: 
-        title: REPLACEME
-        description: REPLACEME
-        link: ./docs/REPLACE-ME1.md
-      - relatedDoc: 
-        title: REPLACEME
-        description: REPLACEME
-        link: ./docs/REPLACE-ME2.md
-      - relatedDoc: 
-        title: REPLACEME
-        description: REPLACEME
-        link: ./docs/REPLACE-ME3.md
-    relatedAPIs:
-      - relatedAPI: 
-        title: REPLACEME
-        description: REPLACEME
-        type: "patch"        
-        path: "/v1/REPLACEME1"
-      - relatedAPI: 
-        title: REPLACEME
-        description: REPLACEME
-        type: "post"        
-        path: "/v1/REPLACEME2"
-      - relatedAPI: 
-        title: REPLACEME
-        description: REPLACEME
-        type: "get"        
-        path: "/v1/REPLACEME3"
+        title: Apple Pay 
+        description: Commerce Hub allows developers to quickly enable secure and convenient Apple Pay payments in their app or website.
+        link: "/docs/TTP/Apple-Pay/Apple-Tap-To-Pay.md"
+      # - relatedDoc: 
+      #   title: Google Pay
+      #   description: Commerce Hub allows developers to quickly enable secure and convenient Google Pay payments in their app or website. 
+      #   link: "docs/Online-Mobile-Digital/Wallets-AltPayments/Google-Pay/Google-Pay.md"
+      # - relatedDoc: 
+      #   title: Samsung Pay
+      #   description: Commerce Hub allows developers to quickly enable secure and convenient Samsung Pay payments in their app or website.
+      #   link:
+    # relatedAPIs:
+    #   - relatedAPI: 
+    #     title: Charges 
+    #     description: Charges can be initiated in two ways; either as Sale or Pre-Auth and is defined with the captureFlag sent in the request.
+    #     type: "post"        
+    #     path: "/payments/v1/charges"
+    #   - relatedAPI: 
+    #     title: Refunds
+    #     description: If the customer returns product or requests to cancel the transaction after the batch has been settled, the merchant will need to release the original authorization by issuing a refund request. 
+    #     type: "post"        
+    #     path: "/payments/v1/refunds"
+    #   - relatedAPI: 
+    #     title: Tokenization
+    #     description: Remove sensitive customer data from your environment and reduce PCI compliance scope. Transaction data is protected by a randomly-generated identifier known as a "token".
+    #     type: "post"        
+    #     path: "/payments-vas/v1/tokens"
