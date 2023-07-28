@@ -1,6 +1,6 @@
 {
-  "title": "Tap to Pay",
-  "name": "tap-to-pay",
+  "title": "SoftPOS",
+  "name": "softPOS",
   "brand": "Fiserv",
   "brandLogoURL": "https://raw.githubusercontent.com/Fiserv/Banking-Product-Cards/develop/assets/images/4_Cards-min%20copy.jpg",
   "solution": ["merchants"],
@@ -17,18 +17,19 @@
       ]
     }
   ],
+  "getStartedFilePath": "/docs/getting-started.md",
   "product": {
     "featured": true,
     "logoURL": "",
     "description": "Developer Studio Support pages",
     "longDescription": "Developer Studio Support pages",
-    "layout": "/v1/layouts/tap-to-pay",
-    "documentation": "/v1/docs/tap-to-pay",
-    "documenttree": "/v1/docs/tap-to-pay",
-    "documenttreeV2": "/v2/docs/tap-to-pay",
-    "sandbox": "/v2/sandboxrun/tap-to-pay",
-    "accessConfig": "/v1/fileAccess/tap-to-pay",
-    "assets": "/v1/assets/tap-to-pay",
+    "layout": "/v1/layouts/softPOS",
+    "documentation": "/v1/docs/softPOS",
+    "documenttree": "/v1/docs/softPOS",
+    "documenttreeV2": "/v2/docs/softPOS",
+    "sandbox": "/v2/sandboxrun/softPOS",
+    "accessConfig": "/v1/fileAccess/softPOS",
+    "assets": "/v1/assets/softPOS",
     "feature": [
       {
         "name": "plugins",
