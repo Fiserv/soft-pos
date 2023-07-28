@@ -38,7 +38,7 @@ getStarted: /docs/getting-started.md
 featuredFeatures:
   - title: Apple's Tap To Pay
     description: >
-      Commerce Hub allows integration with most popular mobile and digital wallet providers including; Apple Pay, Google Pay, Samsung Pay and PayPal.
+      Apple's tap to pay allows users to make contactless payments with their iPhones or Apple Watches at supported payment terminals.
 #    tags: ["tag1", "tag2"]
 #    bullets: ["Faster acceptance than credit or debit", "Biometric security", "Global offering and acceptance"]
 #    links: ["docs/Getting-Started/Getting-Started-Wallets.md"]
