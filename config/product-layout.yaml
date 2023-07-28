@@ -28,12 +28,13 @@
 # the delivery of this work
 ################################################################################
 header:
-  productName: REPLACEME
+  productName: SoftPOS
   productionDescription: REPLACEME
-  whoIsItFor: REPLACEME
+  whoIsItFor: For traditional small businesses and micro-merchants software point-of-sale (SoftPoS) technology removes the need for a standalone POS system and puts the power of payment acceptance into a device that is already in the business owner’s hand – their phone. 
   image: 
     link: "/assets/images/Fiserv_Logo.jpg"
     altText: REPLACEME™
+getStarted: /docs/getting-started.md
 featuredFeatures:
   - title: REPLACE ME
     description:  REPLACE ME
