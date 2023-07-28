@@ -33,12 +33,12 @@ header:
   whoIsItFor: For traditional small businesses and micro-merchants software point-of-sale (SoftPoS) technology removes the need for a standalone POS system and puts the power of payment acceptance into a device that is already in the business owner’s hand – their phone. 
   image: 
     link: "/assets/images/Fiserv_Logo.jpg"
-    altText: REPLACEME™
+    altText: SoftPOS
 getStarted: /docs/getting-started.md
 featuredFeatures:
   - title: Apple's Tap To Pay
     description: >
-      Apple's tap to pay allows users to make contactless payments with their iPhones or Apple Watches at supported payment terminals.
+      Apple's tap to pay allows users to make contactless payments using their Apple devices, such as iPhone or Apple Watch, securely and conveniently.
 #    tags: ["tag1", "tag2"]
 #    bullets: ["Faster acceptance than credit or debit", "Biometric security", "Global offering and acceptance"]
 #    links: ["docs/Getting-Started/Getting-Started-Wallets.md"]
