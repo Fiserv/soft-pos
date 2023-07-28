@@ -36,7 +36,7 @@ header:
     altText: SoftPOS
 getStarted: /docs/getting-started.md
 featuredFeatures:
-  - title: Apple's Tap To Pay
+  - title: Tap To Pay from Apple
     description: >
       Apple's tap to pay allows users to make contactless payments using their Apple devices, such as iPhone or Apple Watch, securely and conveniently.
 #    tags: ["tag1", "tag2"]
