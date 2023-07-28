@@ -1,4 +1,4 @@
-# Getting Started
+# Getting Started with Apple's Tap to Pay
 Create a new project or open your existing app in XCode.
 ​
 Add the Fiserv Package to your app by following these instructions:
