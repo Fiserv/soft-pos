@@ -32,6 +32,13 @@
   - title: Getting Started
     link: docs/getting-started.md
 - sections:
+  - title: Tap to Pay from Apple
+    sections:
+    - title: Introduction
+      link: docs/TTP/Apple-Pay/Introduction-Apple-Tap-To-Pay.md
+    - title: Getting Started
+      link: docs/TTP/Apple-Pay/Apple-Pay-Getting-Started.md
+- sections:
   - title: Release notes
     sections:
     - title: July 2023
