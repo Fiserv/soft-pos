@@ -7,10 +7,6 @@ Currently this functionality is only available in the U.S.
 ​
 By using this Package, you will *not* need to certify your app.   We have taken care of that for you.
 ​
-​
-## Pre-requisites
-​
-​
 ### Device Requirements 
 Apple Tap to Pay on iPhone requires iPhone XS or later, running iOS 16 or later
 ​
