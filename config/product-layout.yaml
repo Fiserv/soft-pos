@@ -46,7 +46,7 @@ featuredFeatures:
       - relatedDoc: 
         title: Apple Pay 
         description: Commerce Hub allows developers to quickly enable secure and convenient Apple Pay payments in their app or website.
-        link: "/docs/TTP/Apple-Pay/Apple-Pay-Getting-Started.md"
+        link: "docs/TTP/Apple-Pay/Apple-Pay-Getting-Started.md"
       # - relatedDoc: 
       #   title: Google Pay
       #   description: Commerce Hub allows developers to quickly enable secure and convenient Google Pay payments in their app or website. 
