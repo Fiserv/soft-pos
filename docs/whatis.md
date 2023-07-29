@@ -28,13 +28,3 @@ To use SoftPOS, businesses simply need to install the SoftPOS application on the
 - **Events and Pop-up Stores:** Temporary retail setups and events can benefit from SoftPOS, as it provides a cost-effective and temporary payment solution.
 
 Fiserv's SoftPOS is a game-changing innovation that empowers businesses of all sizes to embrace the convenience and security of contactless payments without the need for dedicated hardware. By harnessing the power of existing mobile devices, SoftPOS delivers an unmatched level of flexibility, affordability, and simplicity to the payment ecosystem, revolutionizing the way transactions are conducted and propelling the financial industry into a new era of payment technology.
-
----
-## See Also
-
-- [Apple's Tap to Pay](?path=docs/TTP/Apple-Pay/Introduction-Apple-Tap-To-Pay.md)
-
----
-
-
- 
