@@ -35,7 +35,7 @@
   - title: What is SoftPOS
     link: docs/whatis.md
 - sections:
-  - title: Apple's Tap To Pay
+  - title: Tap To Pay on iPhone
     sections:
     - title: Quickstart
       link: docs/TTP/Apple-Pay/Apple-Pay-Getting-Started.md
