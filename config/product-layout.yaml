@@ -44,14 +44,6 @@ featuredFeatures:
         title: Apple Pay 
         description: Commerce Hub allows developers to quickly enable secure and convenient Apple Pay payments in their app or website.
         link: "docs/TTP/Apple-Pay/Apple-Pay-Getting-Started.md"
-      # - relatedDoc: 
-      #   title: Google Pay
-      #   description: Commerce Hub allows developers to quickly enable secure and convenient Google Pay payments in their app or website. 
-      #   link: "docs/Online-Mobile-Digital/Wallets-AltPayments/Google-Pay/Google-Pay.md"
-      # - relatedDoc: 
-      #   title: Samsung Pay
-      #   description: Commerce Hub allows developers to quickly enable secure and convenient Samsung Pay payments in their app or website.
-      #   link:
 benefits:
   - title: Cost-Effective
     description: SoftPOS eliminates the need to invest in traditional POS hardware, significantly reducing upfront costs for businesses, especially SMEs.
