@@ -32,12 +32,15 @@
   - title: Getting Started
     link: docs/getting-started.md
 - sections:
+  - title: What is Tap to Pay
+    link: docs/getting-started.md
+- sections:
   - title: Apple's Tap To Pay
     sections:
-    - title: Introduction
-      link: docs/TTP/Apple-Pay/Introduction-Apple-Tap-To-Pay.md
-    - title: Getting Started
+    - title: Quickstart
       link: docs/TTP/Apple-Pay/Apple-Pay-Getting-Started.md
+    - title: Sample iPhone App
+      link: docs/TTP/Apple-Pay/iPhone-Sample-App-by-Fiserv.md
 - sections:
   - title: Release notes
     sections:
