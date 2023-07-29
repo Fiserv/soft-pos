@@ -39,9 +39,6 @@ featuredFeatures:
   - title: Apple's Tap To Pay
     description: >
       Apple's tap to pay allows users to make contactless payments using their Apple devices, such as iPhone or Apple Watch, securely and conveniently.
-#    tags: ["tag1", "tag2"]
-#    bullets: ["Faster acceptance than credit or debit", "Biometric security", "Global offering and acceptance"]
-#    links: ["docs/Getting-Started/Getting-Started-Wallets.md"]
     relatedDocs:
       - relatedDoc: 
         title: Apple Pay 
