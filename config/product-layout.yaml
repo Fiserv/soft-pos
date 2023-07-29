@@ -29,7 +29,7 @@
 ################################################################################
 header:
   productName: SoftPOS
-  productionDescription: SoftPOS represenrs a revolutionary approach to transforming the traditional point-of-sales (POS) payments, allowing business ans consumers tp leverage software-based solutions on existing mobile devices for seamless and secure transactions.
+  productionDescription: SoftPOS represents a revolutionary approach to transforming the traditional point-of-sales (POS) payments, allowing businesses and consumers to leverage software-based solutions on existing mobile devices for seamless and secure transactions.
   whoIsItFor: For traditional small businesses and micro-merchants software point-of-sale (SoftPoS) technology removes the need for a standalone POS system and puts the power of payment acceptance into a device that is already in the business owner’s hand – their phone. 
   image: 
     link: "/assets/images/Fiserv_Logo.jpg"
