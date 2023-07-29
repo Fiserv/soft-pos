@@ -54,12 +54,10 @@ featuredFeatures:
       #   link:
 benefits:
   - title: Cost-Effective
-    description: SoftPOS eliminates the need to invest in traditional POS hardware, significantly reducing upfront costs for businesses, especially small and medium-sized enterprises (SMEs).
+    description: SoftPOS eliminates the need to invest in traditional POS hardware, significantly reducing upfront costs for businesses, especially SMEs.
   - title: Enhanced Mobility
-    description: With SoftPOS, merchants can accept payments anywhere using their existing mobile devices, providing increased flexibility and mobility for on-the-go transactions.
-  - title: Quick Deployment
-    description: Implementing SoftPOS is quick and straightforward, with minimal setup requirements, enabling businesses to start accepting payments rapidly.   
+    description: Merchants can accept payments anywhere using their existing mobile devices, providing increased flexibility and mobility for on-the-go transactions.  
   - title: Seamless Customer Experience
     description: SoftPOS ensures a seamless payment experience for customers, as they can conveniently use their contactless cards or devices for transactions.
   - Security and Compliance:
-    decription: Fiserv's SoftPOS adheres to stringent security standards and EMV compliance, safeguarding sensitive customer data and protecting businesses from potential fraud.
+    decription: SoftPOS adheres to stringent security standards and EMV compliance, safeguarding sensitive customer data and protecting businesses from potential fraud.
