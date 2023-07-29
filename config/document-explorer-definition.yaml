@@ -33,7 +33,7 @@
     link: docs/getting-started.md
 - sections:
   - title: What is Tap to Pay
-    link: docs/getting-started.md
+    link: docs/whatis.md
 - sections:
   - title: Apple's Tap To Pay
     sections:
