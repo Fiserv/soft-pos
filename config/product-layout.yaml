@@ -36,9 +36,9 @@ header:
     altText: SoftPOS
 getStarted: /docs/getting-started.md
 featuredFeatures:
-  - title: Tap To Pay on iPhone
+  - title: Tap to Pay on iPhone
     description: >
-      Apple's tap to pay allows users to make contactless payments using their Apple devices, such as iPhone or Apple Watch, securely and conveniently.
+      Tap to Pay on iPhone allows users to make contactless payments using their Apple devices, such as iPhone or Apple Watch, securely and conveniently.
     relatedDocs:
       - relatedDoc: 
         title: Apple Pay 
